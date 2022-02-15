@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "FND_poster_SpiderMan_InTheaters.jpeg 20-57-03-632.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

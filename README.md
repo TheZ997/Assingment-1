@@ -48,7 +48,6 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 
-<img src= ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/97925468/153555618-9bba3b8d-c2cb-498f-ac5d-70eb7405d1d1.gif) =250><br>
-
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/97925468/153555618-9bba3b8d-c2cb-498f-ac5d-70eb7405d1d1.gif) 
 ### Notes
 I faced many challenges mainly with bugs caused by my inexperience.  
